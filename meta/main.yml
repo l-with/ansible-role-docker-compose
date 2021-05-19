@@ -1,0 +1,8 @@
+---
+
+galaxy_info:
+  role_name: docker-compose
+  description: install docker-compose
+  author: l-with
+
+...

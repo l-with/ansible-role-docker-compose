@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/docker/compose/releases/tag/1.29.2
+HostUrl=https://github-releases.githubusercontent.com/15045751/e1ef3000-b16e-11eb-9df7-091c00bdf356?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210519T171937Z&X-Amz-Expires=300&X-Amz-Signature=451999b4fd1eae981ad05a41fd38b814b00f71e74719b00d51fc31e6cef78af5&X-Amz-SignedHeaders=host&actor_id=53109379&key_id=0&repo_id=15045751&response-content-disposition=attachment%3B%20filename%3Ddocker-compose-Linux-x86_64&response-content-type=application%2Foctet-stream

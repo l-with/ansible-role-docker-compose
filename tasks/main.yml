@@ -1,0 +1,9 @@
+---
+
+- name: Ensure docker-compose installed
+  ansible.builtin.file:
+    src: docker-compose-Linux-x86_64
+    dest: /usr/local/bin/docker-compose
+    mode: a+x
+
+...
