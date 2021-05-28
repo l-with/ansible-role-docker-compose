@@ -1,2 +1,2 @@
 # Ansible Role Docker-Compose
-Installs Docker-Compose
+Install Docker-Compose
